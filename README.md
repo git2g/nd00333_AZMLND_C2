@@ -41,5 +41,7 @@ Using Azure Machine Learning, this project configures a cloud-based machine lear
 ## Screen Recording
 [https://www.screencast.com/t/mbY4yZN7f8M7](https://www.screencast.com/t/mbY4yZN7f8M7)
 
+- updated: [https://www.screencast.com/t/wDA3WX7KKY](https://www.screencast.com/t/wDA3WX7KKY)
+
 ## Standout Suggestions
 In the future, we could have the flexibility to load the swagger.json in Postman or other swagger clients rather than run the provided script as it had it's own challenges, which is unecessary to highlight the point of this task - operationalizing a ml pipeline. 
